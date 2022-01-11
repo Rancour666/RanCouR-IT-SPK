@@ -567,6 +567,8 @@ body {
   display: grid;
   -ms-grid-columns: (1fr)[2];
   grid-template-columns: repeat(2, 1fr);
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
   gap: 2rem;
   line-height: 140%;
 }
@@ -601,6 +603,8 @@ body {
   display: grid;
   -ms-grid-columns: (1fr)[2];
   grid-template-columns: repeat(2, 1fr);
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
   -webkit-column-gap: 3.125rem;
      -moz-column-gap: 3.125rem;
           column-gap: 3.125rem;
@@ -614,6 +618,8 @@ body {
   display: grid;
   -ms-grid-columns: auto minmax(auto, 174px);
   grid-template-columns: auto minmax(auto, 174px);
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -659,6 +665,8 @@ body {
   display: grid;
   -ms-grid-columns: (33.33333%)[3];
   grid-template-columns: repeat(3, 33.33333%);
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
 }
 
 .services-block__item {
@@ -666,6 +674,8 @@ body {
   display: grid;
   -ms-grid-columns: 76px 1fr;
   grid-template-columns: 76px 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -692,6 +702,8 @@ body {
   display: grid;
   -ms-grid-columns: (1fr)[3];
   grid-template-columns: repeat(3, 1fr);
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
   counter-reset: section;
   row-gap: 4.0625rem;
 }
@@ -729,6 +741,8 @@ body {
   display: grid;
   -ms-grid-columns: (1fr)[2];
   grid-template-columns: repeat(2, 1fr);
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
   gap: 1.875rem;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -757,6 +771,8 @@ body {
   display: grid;
   -ms-grid-columns: (1fr)[2];
   grid-template-columns: repeat(2, 1fr);
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
   gap: 0.75rem;
   margin-bottom: 2.1875rem;
 }
@@ -907,6 +923,8 @@ body {
   display: grid;
   -ms-grid-columns: (1fr)[2];
   grid-template-columns: repeat(2, 1fr);
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
   -webkit-column-gap: 1.875rem;
      -moz-column-gap: 1.875rem;
           column-gap: 1.875rem;
@@ -955,6 +973,8 @@ body {
   display: grid;
   -ms-grid-columns: (1fr)[2];
   grid-template-columns: repeat(2, 1fr);
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
   gap: 1.875rem;
   -webkit-box-align: center;
       -ms-flex-align: center;
